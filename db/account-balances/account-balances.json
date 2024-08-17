@@ -1,0 +1,37 @@
+[
+    {
+        "idAccount": 1,
+        "idUser": 1,
+        "balance": 5000
+    },
+    {
+        "idAccount": 2,
+        "idUser": 2,
+        "balance": 10000
+    },
+    {
+        "idAccount": 3,
+        "idUser": 3,
+        "balance": 7000
+    },
+    {
+        "idAccount": 4,
+        "idUser": 1,
+        "balance": 8000
+    },
+    {
+        "idAccount": 5,
+        "idUser": 2,
+        "balance": 9000
+    },
+    {
+        "idAccount": 6,
+        "idUser": 3,
+        "balance": 6000
+    },
+    {
+        "idAccount": 7,
+        "idUser": 1,
+        "balance": 7500
+    }
+]

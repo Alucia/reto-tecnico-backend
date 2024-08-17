@@ -1,0 +1,206 @@
+[
+    {
+        "idAccount": 1,
+        "idTransaction": 1,
+        "amount": -100,
+        "description": "Grocery"
+    },
+    {
+        "idAccount": 1,
+        "idTransaction": 2,
+        "amount": 500,
+        "description": "Salary"
+    },
+    {
+        "idAccount": 1,
+        "idTransaction": 3,
+        "amount": -200,
+        "description": "Rent"
+    },
+    {
+        "idAccount": 1,
+        "idTransaction": 4,
+        "amount": 1000,
+        "description": "Bonus"
+    },
+    {
+        "idAccount": 2,
+        "idTransaction": 5,
+        "amount": -50,
+        "description": "Fuel"
+    },
+    {
+        "idAccount": 2,
+        "idTransaction": 6,
+        "amount": 200,
+        "description": "Freelance"
+    },
+    {
+        "idAccount": 2,
+        "idTransaction": 7,
+        "amount": -150,
+        "description": "Utilities"
+    },
+    {
+        "idAccount": 2,
+        "idTransaction": 8,
+        "amount": 500,
+        "description": "Gift"
+    },
+    {
+        "idAccount": 3,
+        "idTransaction": 9,
+        "amount": -300,
+        "description": "Grocery"
+    },
+    {
+        "idAccount": 3,
+        "idTransaction": 10,
+        "amount": 700,
+        "description": "Salary"
+    },
+    {
+        "idAccount": 3,
+        "idTransaction": 11,
+        "amount": -200,
+        "description": "Rent"
+    },
+    {
+        "idAccount": 3,
+        "idTransaction": 12,
+        "amount": 1000,
+        "description": "Bonus"
+    },
+    {
+        "idAccount": 4,
+        "idTransaction": 13,
+        "amount": -200,
+        "description": "Rent"
+    },
+    {
+        "idAccount": 4,
+        "idTransaction": 14,
+        "amount": 800,
+        "description": "Salary"
+    },
+    {
+        "idAccount": 4,
+        "idTransaction": 15,
+        "amount": -100,
+        "description": "Grocery"
+    },
+    {
+        "idAccount": 4,
+        "idTransaction": 16,
+        "amount": 500,
+        "description": "Freelance"
+    },
+    {
+        "idAccount": 4,
+        "idTransaction": 17,
+        "amount": -150,
+        "description": "Utilities"
+    },
+    {
+        "idAccount": 5,
+        "idTransaction": 18,
+        "amount": -150,
+        "description": "Grocery"
+    },
+    {
+        "idAccount": 5,
+        "idTransaction": 19,
+        "amount": 900,
+        "description": "Salary"
+    },
+    {
+        "idAccount": 5,
+        "idTransaction": 20,
+        "amount": -200,
+        "description": "Rent"
+    },
+    {
+        "idAccount": 5,
+        "idTransaction": 21,
+        "amount": 700,
+        "description": "Bonus"
+    },
+    {
+        "idAccount": 5,
+        "idTransaction": 22,
+        "amount": -50,
+        "description": "Fuel"
+    },
+    {
+        "idAccount": 6,
+        "idTransaction": 23,
+        "amount": -100,
+        "description": "Fuel"
+    },
+    {
+        "idAccount": 6,
+        "idTransaction": 24,
+        "amount": 600,
+        "description": "Salary"
+    },
+    {
+        "idAccount": 6,
+        "idTransaction": 25,
+        "amount": -300,
+        "description": "Grocery"
+    },
+    {
+        "idAccount": 6,
+        "idTransaction": 26,
+        "amount": 1000,
+        "description": "Bonus"
+    },
+    {
+        "idAccount": 6,
+        "idTransaction": 27,
+        "amount": -200,
+        "description": "Rent"
+    },
+    {
+        "idAccount": 7,
+        "idTransaction": 28,
+        "amount": -200,
+        "description": "Grocery"
+    },
+    {
+        "idAccount": 7,
+        "idTransaction": 29,
+        "amount": 800,
+        "description": "Salary"
+    },
+    {
+        "idAccount": 7,
+        "idTransaction": 30,
+        "amount": -300,
+        "description": "Rent"
+    },
+    {
+        "idAccount": 7,
+        "idTransaction": 31,
+        "amount": 1000,
+        "description": "Bonus"
+    },
+    {
+        "idAccount": 7,
+        "idTransaction": 32,
+        "amount": -150,
+        "description": "Utilities"
+    },
+    {
+        "idAccount": 7,
+        "idTransaction": 33,
+        "amount": 200,
+        "description": "Gift"
+    },
+    {
+        "idAccount": 7,
+        "idTransaction": 34,
+        "amount": -50,
+        "description": "Fuel"
+    }
+]
