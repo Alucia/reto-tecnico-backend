@@ -19,10 +19,19 @@ exports.getUserById = async (req, res) => {
 };
 
 exports.createUser = async (req, res) => {
-    const body = req.body;
-    const bodyString = JSON.stringify(body);
+    const content = fs.readFileSync(usersDir + `/users.json`);
 
-    fs.writeFile(usersDir + `/users.json`, bodyString, err => {
+    const jsonData = JSON.parse(content);
+    const newId = jsonData.length + 1;
+    const newUser = {
+        idUser: newId,
+        name: req.body.name,
+        email: req.body.email
+    };
+
+    jsonData.push(newUser);
+
+    fs.writeFile(usersDir + `/users.json`, JSON.stringify(jsonData, null, 2), 'utf8', err => {
         if (err) {
             console.log('Error al escribir el archivo');
             res.status(500).json({ error: 'Error al escribir el archivo' });
